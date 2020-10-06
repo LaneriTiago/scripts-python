@@ -2,7 +2,7 @@
 #um pseudocódigo que receba o saldo médio de um cliente e calcule o valor do crédito, de acordo com a tabela
 #a seguir. Mostre o saldo médio e o valor do crédito.
 
-saldo_medio = float (input('Digite o crédito: '))
+saldo_medio = float (input('Digite o saldo médio: '))
 
 if saldo_medio > 400:
     credito = saldo_medio * 0.3
